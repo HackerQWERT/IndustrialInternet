@@ -17,8 +17,8 @@ public class Mysql
     public string Port { get; set; } = "3306";
     public string Ip { get; set; } = "127.0.0.1";
     public string Database { get; set; } = "SensorDatas";
-    public string User { get; set; } = "root";
-    public string Password { get; set; } = "F";
+    public string User { get; set; } = "";//Your User
+    public string Password { get; set; } = "";//Your Password 
     public string ConnectionString { get; }
 
     public async Task<int> InsertSensorData(SensorDataModel sensorDataModel)
