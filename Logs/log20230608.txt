@@ -1,0 +1,39 @@
+2023-06-08 17:04:40.691 +08:00 [INF] One Client Connected to SensorHub:	I8XEw8-8BD3H-Y1rtsVfZg
+2023-06-08 17:07:15.559 +08:00 [WRN] One Client Disconnected from SensorHub:	I8XEw8-8BD3H-Y1rtsVfZg
+Reason:	
+2023-06-08 17:07:19.493 +08:00 [INF] One Client Connected to SensorHub:	GumoAXWziqPuxpYbbCd4zw
+2023-06-08 17:08:13.884 +08:00 [WRN] One Client Disconnected from SensorHub:	GumoAXWziqPuxpYbbCd4zw
+Reason:	
+2023-06-08 17:08:17.616 +08:00 [INF] One Client Connected to SensorHub:	FoiK3GikxYBIbJ4G95rrmg
+2023-06-08 20:00:28.753 +08:00 [INF] One Client Connected to SensorHub:	L-ZpZz1YQ3E1ptd5faIh0w
+2023-06-08 20:00:42.506 +08:00 [WRN] One Client Disconnected from SensorHub:	L-ZpZz1YQ3E1ptd5faIh0w
+Reason:	
+2023-06-08 22:26:02.948 +08:00 [INF] One Client Connected to SensorHub:	6wd5ECectnP9XibGLRrZTQ
+2023-06-08 22:26:43.329 +08:00 [INF] One Client Connected to SensorHub:	edHbPnSY29Quqm1q-jR68Q
+2023-06-08 22:26:57.074 +08:00 [WRN] One Client Disconnected from SensorHub:	edHbPnSY29Quqm1q-jR68Q
+Reason:	
+2023-06-08 22:27:28.775 +08:00 [WRN] One Client Disconnected from SensorHub:	6wd5ECectnP9XibGLRrZTQ
+Reason:	
+2023-06-08 22:27:49.785 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	MIEW3NDWJWDs4ygKsqEHzw
+2023-06-08 22:27:59.124 +08:00 [INF] One Client Connected to SensorHub:	wokzlajk_4AfXoufjVMR-Q
+2023-06-08 22:28:19.759 +08:00 [WRN] One Client Disconnected from SensorHub:	wokzlajk_4AfXoufjVMR-Q
+Reason:	
+2023-06-08 22:39:35.520 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	MIEW3NDWJWDs4ygKsqEHzw
+Reason:	
+2023-06-08 23:02:22.241 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	1inAgq0FBvbdaFo4ri9Gjg
+2023-06-08 23:02:43.121 +08:00 [INF] One Client Connected to SensorHub:	6R419u9USTjeWABNrS3-hA
+2023-06-08 23:03:01.013 +08:00 [WRN] One Client Disconnected from SensorHub:	6R419u9USTjeWABNrS3-hA
+Reason:	
+2023-06-08 23:03:32.268 +08:00 [INF] One Client Connected to SensorHub:	B_y9D-y0JrstJ64fYCw_mg
+2023-06-08 23:04:06.748 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	1inAgq0FBvbdaFo4ri9Gjg
+Reason:	
+2023-06-08 23:04:11.426 +08:00 [WRN] One Client Disconnected from SensorHub:	B_y9D-y0JrstJ64fYCw_mg
+Reason:	
+2023-06-08 23:05:41.975 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	Lq6OuuFL5iiebzmmBwKESw
+2023-06-08 23:06:00.147 +08:00 [INF] One Client Connected to SensorHub:	NjBb0y3n7NU_CX6nugir4Q
+2023-06-08 23:06:23.528 +08:00 [ERR] Unknown column 'Temperature' in 'field list'
+2023-06-08 23:06:31.946 +08:00 [ERR] Unknown column 'Temperature' in 'field list'
+2023-06-08 23:06:41.899 +08:00 [WRN] One Client Disconnected from SensorHub:	NjBb0y3n7NU_CX6nugir4Q
+Reason:	
+2023-06-08 23:12:41.069 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	Lq6OuuFL5iiebzmmBwKESw
+Reason:	

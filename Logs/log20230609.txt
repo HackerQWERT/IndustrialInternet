@@ -1,0 +1,135 @@
+2023-06-09 00:01:30.180 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	IAb8ODE-MCW6k4k7H5hjfw
+2023-06-09 00:05:05.166 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	IAb8ODE-MCW6k4k7H5hjfw
+Reason:	
+2023-06-09 00:06:43.266 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	oaNKKQ31gGk15uhQNS9tgg
+2023-06-09 00:07:27.953 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:07:27.964 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:07:32.924 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:07:32.929 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:07:56.892 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:07:56.899 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:08:01.894 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:08:01.899 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:08:06.896 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:08:06.901 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:08:11.896 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:08:11.902 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:08:16.902 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:08:16.907 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:08:17.150 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	oaNKKQ31gGk15uhQNS9tgg
+Reason:	
+2023-06-09 00:09:08.134 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	TUnqWTfRg3rcPd7gmhMn_Q
+2023-06-09 00:11:34.410 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:34.554 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:34.712 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:34.762 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:36.114 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:36.171 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:55.185 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:55.267 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:55.387 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:55.449 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:55.619 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:55.690 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:11:56.680 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:11:56.765 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:01.715 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:01.824 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:06.660 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:06.750 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:11.613 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:11.690 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:16.693 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:16.746 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:53.634 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:53.727 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:53.792 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:53.893 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:53.986 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:54.110 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:54.195 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:54.268 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:54.365 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:54.438 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:54.508 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:54.611 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:54.669 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:54.744 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:54.785 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:54.820 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:54.866 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:54.910 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:54.954 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:54.996 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:55.062 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:12:56.632 +08:00 [ERR] Table 'SensorDatas.VibrationSensorLogs' doesn't exist
+2023-06-09 00:12:56.710 +08:00 [ERR] Table 'SensorDatas.PressureSensorLogs' doesn't exist
+2023-06-09 00:12:56.796 +08:00 [ERR] Table 'SensorDatas.TemperatureSensorLogs' doesn't exist
+2023-06-09 00:17:16.046 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	6agmrLqeag9BqXvHU6UDtw
+2023-06-09 00:49:41.662 +08:00 [INF] One Client Connected to SensorHub:	58yq6dTDRfMxzoCZIZMXxQ
+2023-06-09 00:49:42.240 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.310 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.378 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.430 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.497 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.557 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.624 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.690 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.772 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.845 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:42.944 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.026 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.112 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.196 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.262 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.325 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.390 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.442 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:43.795 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:44.820 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:45.861 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:46.836 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:47.842 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:48.873 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:49.899 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:50.893 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:51.870 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:52.891 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:53.919 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:54.891 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:56.279 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:56.936 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:57.908 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:49:58.940 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:00.113 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:00.945 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:01.941 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:02.965 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:03.982 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:04.970 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:05.969 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:06.978 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 00:50:08.006 +08:00 [ERR] Unable to connect to any of the specified MySQL hosts.
+2023-06-09 01:16:39.074 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	DKkT8vWs8cpl0B2haKA8Tw
+2023-06-09 01:19:29.629 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	b9yHn5zZ1uGSNRXYH4aUCQ
+2023-06-09 01:25:08.826 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	b9yHn5zZ1uGSNRXYH4aUCQ
+Reason:	
+2023-06-09 01:25:18.412 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	RcE3iA-_Za3iSbVXywxkdA
+2023-06-09 01:25:27.243 +08:00 [ERR] Connection must be valid and open.
+2023-06-09 01:25:27.286 +08:00 [ERR] Connection must be valid and open.
+2023-06-09 01:25:30.669 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	DKkT8vWs8cpl0B2haKA8Tw
+Reason:	
+2023-06-09 01:29:39.080 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	RcE3iA-_Za3iSbVXywxkdA
+Reason:	
+2023-06-09 01:31:03.361 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	z0zGB2S1LLtOeA1lyzHjOw
+2023-06-09 01:32:59.231 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	z0zGB2S1LLtOeA1lyzHjOw
+Reason:	
+2023-06-09 01:33:40.604 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	_2JAAxPpILkkTMLZPEz6Fw
+2023-06-09 01:44:49.801 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	_2JAAxPpILkkTMLZPEz6Fw
+Reason:	
+2023-06-09 01:45:39.668 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	irHDzsXPdEXKJhdRo6Fh8Q
+2023-06-09 01:49:44.512 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	irHDzsXPdEXKJhdRo6Fh8Q
+Reason:	
+2023-06-09 01:50:25.712 +08:00 [INF] One Client Connected to MonitoringSoftwareHub:	-4v_UDMwSk4U3hFOFXRZOA
+2023-06-09 02:06:15.058 +08:00 [WRN] One Client Disconnected from MonitoringSoftwareHub:	-4v_UDMwSk4U3hFOFXRZOA
+Reason:	
